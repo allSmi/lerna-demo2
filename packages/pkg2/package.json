@@ -1,0 +1,29 @@
+{
+  "name": "pkg2",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "__Steel笑口 <kewangxunqiu@163.com>",
+  "homepage": "https://github.com/allSmi/lerna-demo2#readme",
+  "license": "ISC",
+  "main": "lib/pkg2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npm.taobao.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allSmi/lerna-demo2.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/allSmi/lerna-demo2/issues"
+  }
+}
