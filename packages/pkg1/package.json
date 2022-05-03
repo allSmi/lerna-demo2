@@ -1,0 +1,22 @@
+{
+  "name": "pkg1",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "__Steel笑口 <kewangxunqiu@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/pkg1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npm.taobao.org/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
