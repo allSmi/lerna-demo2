@@ -25,5 +25,9 @@
   },
   "bugs": {
     "url": "https://github.com/allSmi/lerna-demo2/issues"
+  },
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
   }
 }

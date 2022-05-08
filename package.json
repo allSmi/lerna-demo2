@@ -3,5 +3,11 @@
   "private": true,
   "devDependencies": {
     "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "pkg1": "file:packages/pkg1",
+    "pkg2": "file:packages/pkg2",
+    "pkg3": "file:packages/pkg3",
+    "wp1": "file:packages/wp1"
   }
 }
